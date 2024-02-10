@@ -10,3 +10,6 @@ preservation of essential signal features. Its ability to capture localized deta
 and adapt to the signal's frequency content makes it a valuable tool for a wide
 range of applications, including audio processing, image denoising, and
 biomedical signal analysis.
+
+OUTPUT
+<img width="747" alt="image" src="https://github.com/MAvRK7/Signal-Denoising-Using-Wavelet-transform/assets/104065946/7433d6ea-e94e-48cf-813f-6683f209b893">
